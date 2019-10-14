@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="switch_on_location">Please switch ON your location</string>
+
+    <!-- Dialog alert strings-->
+    <string name="dialog_alert_ok">OK</string>
+    <string name="dialog_alert_cancel">Cancel</string>
+    <string name="dialog_alert_title">Add new city</string>
+    <string name="dialog_alert_please">Please, write city here</string>
+
+</resources>
